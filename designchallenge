@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+
+<HTML>
+
+	<head>
+		<title>Design Challenge 1</title>
+	</head>
+
+	<body>
+		<h1>Design Challenge 1</h1>
+
+		<h2>Which two websites are you most inspired by?</h2>
+		<p>YourKarma (portable WiFi) - <a href="https://yourkarma.com/" target="blank">www.yourkarma.com</a></p>
+		<p>HUGE (digital agency) - <a href="http://www.hugeinc.com/" target="blank">www.hugeinc.com</a></p>
+
+		<h2>How do they exhibit effective use of space, size or balance?</h2>
+		<p><em>YourKarma</em> utilizes a full width background video to tell the story of their product. Paired with a brief headline/subhead and a transparent nav bar, users are immediately engaged through the use of focus.</p>
+		<p><em>HUGE</em> plays with negative space and unique imagery compositions on their homepage. They have condensed the nav to a menu icon and left the rest of the page empty to drive focus to the large image and project detail, center-justified.</p>
+
+		<h2>What makes them similar and different?</h2>
+		<p>Big image/small copy is a common theme. Both sites successfully grab the attention of users through effective use of space and scale. However, they drive engagement a bit differently. YourKarma relies on the video loop in the background to stimulate users' attention, while HUGE forces users to scroll the page. The aesthetic approach is very similar though - clean, minimal, and vibrant.</p>
+
+		<h2>Thumbnail Sketches</h2>
+		<p>The following sketches are for a portfolio site.</p>
+		<ul>
+			<li><strong>Homepage v1</strong></li>
+				<IMG SRC="img/Unit2_Project_BOLD HOMEPAGE.png" width="612" height="480">
+				<p>The idea for this version is to lead in with bold headlines-an emphasis on typography vs imagery. Use of negative space and balance will provide clear focal points. Project grid below hero banner serves as a preview into portfolio, and as a page divider between content sections.</p>
+			<li><strong>Homepage v2</strong></li>
+				<IMG SRC="img/Unit2_Project_VISUAL HOMEPAGE.png" width="612" height="480">
+				<p>Large full width image for big impact in version 2. Use of scale will provide focus on copy, and a transparent navigation bar keeps page clear of visual distractions. Imagery bleeds to edge of browser window.</p>
+			<li><strong>About v1</strong></li>
+				<IMG SRC="img/Unit2_Project_BOLD ABOUT PG.png" width="612" height="480">
+				<p>Continuation of bold typography theme. Leads into 2-column section: copy on left, image grid on right. There is a balance of copy content to images, which helps create a nice flow through the page.</p>
+			<li><strong>About v2</strong></li>
+				<IMG SRC="img/Unit2_Project_VISUAL ABOUT PG.png" width="612" height="480">
+				<p>Minimalist approach in this version. Lead in with large hero image and short headline, followed by small image and copy. Everything center justified, to mimic homepage structure.</p>
+			<li><strong>Portfolio Page v1</strong></li>
+				<IMG SRC="img/Unit2_Project_BOLD PORTFOLIO PG.png" width="612" height="480">
+				<p>Very similar page layout (as "About v1" above). Project title up top, content below. Images of project will be main focal points throughout page. </p>
+			<li><strong>Portfolio Page v2</strong></li>
+				<IMG SRC="img/Unit2_Project_VISUAL PORTFOLIO PG.png" width="612" height="480">
+				<p>Heirarchy is key in this version. Eye starts at top hero image/headline, follows the page down to body copy, and finally through a grid layout of images.</p>
+		</ul>
+	</body>
+
+</html>
