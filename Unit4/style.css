@@ -1,0 +1,60 @@
+CSS selector {
+  	font-family: 'Montserrat', sans-serif;
+  	font-family: 'Droid Serif', serif;
+}
+
+body {
+	background-image: url("images/Restuarant_Contineo.jpg");
+	background-repeat: no-repeat;
+	background-color: rgb(120 124 123);
+	background-size: cover;
+	height: 900px;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+}
+
+div {
+}
+
+h1 {
+	color: #fff;
+	display: block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70px;
+	font-weight: 700;
+	margin: 40px 0 20px;
+	padding: 60px 0 10px 0;
+	text-align: center;
+	text-shadow: 0 3px 5px rgba(0, 0, 0, 0.15);
+	vertical-align: middle;
+}
+
+p {
+	color: #fff;
+	font-family: 'Droid Serif', serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 24px;
+	text-align: center;
+	text-shadow: 0 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.button {
+ 	display: block;
+ 	background: #8cb29e;
+ 	width: 200px;
+	height: 40px;
+	text-align: center;
+ 	padding: 25px 0 0 0;
+ 	font: 1.2em/12px 'Montserrat', sans-serif;
+	color: #fff;
+ 	text-decoration: none;
+ }
+
+.main_content {
+	text-align: center;
+	vertical-align: middle;
+	margin: 100px;
+
+}
