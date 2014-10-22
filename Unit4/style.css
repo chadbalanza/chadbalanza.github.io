@@ -1,15 +1,12 @@
-CSS selector {
-  	font-family: 'Montserrat', sans-serif;
-  	font-family: 'Droid Serif', serif;
-}
+* { margin:0; padding:0; box-sizing:border-box; }
 
 body {
 	background-image: url("images/Restuarant_Contineo.jpg");
 	background-repeat: no-repeat;
 	background-color: rgb(120 124 123);
 	background-size: cover;
-	height: 900px;
-	position: relative;
+  	font-family: 'Montserrat', sans-serif;
+  	font-family: 'Droid Serif', serif;
 	-webkit-font-smoothing: antialiased;
 }
 
