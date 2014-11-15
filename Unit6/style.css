@@ -63,6 +63,11 @@ footer {
 	transform: translateY(-50%);
 	text-align:center;
 }
+.cta {
+	border:2px #fff solid;
+	padding:20px 50px;
+	width:200px;
+}
 .clearfix:after {
   visibility: hidden;
   display: block;
