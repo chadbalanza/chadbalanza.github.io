@@ -1,13 +1,13 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-	background: url("images/Website_Unit6.jpg") no-repeat rgb(120 124 123);
+	background: url("images/Website_Unit6.jpg") no-repeat;
 	background-size: cover;
 	/*font-family: 'Montserrat', sans-serif;*/
   	font-family: 'Droid Serif', serif;
 	-webkit-font-smoothing: antialiased;
 }
-main { background:rgba(120,124,123,.8); }
+main { background:rgba(120,124,123,.5); }
 header {
 	padding: 20px;
 }
